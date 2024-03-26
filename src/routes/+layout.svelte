@@ -10,7 +10,7 @@
 	<title>HCM Assignment</title>
 </svelte:head>
 
-<main class="relative w-screen h-screen overflow-hidden flex sm:flex-row flex-col">
+<main class="relative w-screen h-screen overflow-hidden flex sm:flex-row flex-col sm:pb-0 pb-16">
 	<div class="hidden sm:block w-[5%]">
 		<Navbar />
 	</div>
