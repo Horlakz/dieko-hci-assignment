@@ -17,7 +17,7 @@
 	<div class="sm:hidden block absolute bottom-6 left-1/2 -translate-x-1/2">
 		<MobileNavbar />
 	</div>
-	<div class="w-full sm:p-10 p-6">
+	<div class="w-full mx-auto max-w-screen-lg sm:p-10 p-6 overflow-y-scroll">
 		<slot />
 	</div>
 </main>
