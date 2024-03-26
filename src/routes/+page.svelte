@@ -10,7 +10,7 @@
 		alt="diekoloreloluwa idowu"
 		width="250"
 		height="250"
-		class="shadow-black shadow-image rounded-lg"
+		class="shadow-image rounded-lg"
 	/>
 
 	<div class="uppercase flex-col-center sm:gap-8 gap-2">
