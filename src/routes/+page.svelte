@@ -22,3 +22,11 @@
 		</div>
 	</div>
 </section>
+
+<style>
+	.shadow-image {
+		box-shadow: 14px 12px 0px 2px rgba(0, 0, 0, 1);
+		-webkit-box-shadow: 14px 12px 0px 2px rgba(0, 0, 0, 1);
+		-moz-box-shadow: 14px 12px 0px 2px rgba(0, 0, 0, 1);
+	}
+</style>

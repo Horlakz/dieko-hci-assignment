@@ -4,3 +4,11 @@
 >
 	<slot />
 </button>
+
+<style>
+	.shadow-text:active {
+		box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+		-webkit-box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+		-moz-box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+	}
+</style>
