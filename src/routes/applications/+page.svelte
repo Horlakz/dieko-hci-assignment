@@ -13,19 +13,20 @@
 		<ol>
 			<li>
 				<p>
-					Natural Language Understanding (NLU): A core challenge in voice assistants is accurately
-					understanding spoken language. HCI research helps bridge the gap between speech
-					recognition (converting speech to text) and NLU (interpreting the meaning and intent
-					behind the words). HCI principles inform the design of algorithms that consider factors
-					like grammar, context, and user behavior to improve NLU accuracy.
+					<span class="font-semibold">Natural Language Understanding (NLU):</span> A core challenge in
+					voice assistants is accurately understanding spoken language. HCI research helps bridge the
+					gap between speech recognition (converting speech to text) and NLU (interpreting the meaning
+					and intent behind the words). HCI principles inform the design of algorithms that consider
+					factors like grammar, context, and user behavior to improve NLU accuracy.
 				</p>
 			</li>
 
 			<li>
 				<p>
-					User Interface (UI) Design for Voice Interaction: Unlike graphical interfaces with buttons
-					and menus, voice assistants rely on spoken interaction. HCI research is crucial in
-					designing user-friendly interfaces for voice input. This includes aspects like:
+					<span class="font-semibold">User Interface (UI) Design for Voice Interaction:</span> Unlike
+					graphical interfaces with buttons and menus, voice assistants rely on spoken interaction. HCI
+					research is crucial in designing user-friendly interfaces for voice input. This includes aspects
+					like:
 				</p>
 				<ul>
 					<li>
@@ -52,8 +53,8 @@
 
 			<li>
 				<p>
-					Personalization: HCI informs the development of voice assistants that can personalize the
-					user experience. This can involve:
+					<span class="font-semibold">Personalization:</span> HCI informs the development of voice assistants
+					that can personalize the user experience. This can involve:
 				</p>
 				<ul>
 					<li>
@@ -74,6 +75,32 @@
 						</p>
 					</li>
 				</ul>
+			</li>
+
+			<li>
+				<span class="font-semibold">Augmented Reality (AR) and Virtual Reality (VR):</span> AR and VR
+				Design: As immersive technologies like AR and VR continue to develop, HCI plays a critical role
+				in shaping user interaction within these virtual environments. Researchers design intuitive controls,
+				navigation systems, and information displays that feel natural and minimize user disorientation.
+				User-Centered Design: HCI emphasizes user-centered design, ensuring these immersive experiences
+				are comfortable, engaging, and cater to user needs. This involves addressing potential issues
+				like motion sickness and ensuring the virtual environment is intuitive and easy to navigate.
+				Example: Imagine an AR app used for furniture placement in your home. HCI principles would ensure
+				seamless overlay of virtual furniture models onto your physical space. The app would be easy
+				to manipulate, allowing users to adjust positioning and size of the virtual furniture intuitively.
+				This promotes a comfortable and engaging experience for users exploring furniture options in
+				their homes.
+			</li>
+
+			<li>
+				<span class="font-semibold">The Future of Work and Human-Machine Collaboration:</span> HCI in
+				the Workplace: As automation and artificial intelligence (AI) evolve, HCI research focuses on
+				designing interfaces that facilitate effective human-machine collaboration. This involves ensuring
+				clear communication, task delegation, and error handling mechanisms for seamless interaction
+				between workers and AI systems. Designing for Trust and Transparency: Trust and transparency
+				are paramount in human-machine collaboration. HCI research helps create interfaces that provide
+				users with clear explanations of how AI systems arrive at decisions, promoting trust and acceptance
+				of intelligent automation.
 			</li>
 		</ol>
 
