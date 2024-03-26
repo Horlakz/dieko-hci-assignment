@@ -1,6 +1,6 @@
 <section class="flex-col-center gap-6 sm:px-20 px-6">
-	<h2 class="sm:text-3xl text-xl text-center font-bold">
-		Applications of Human Computer Interaction &#40;HCI&#41;
+	<h2 class="sm:text-3xl text-xl text-center font-bold uppercase">
+		THIS IS WHAT I'VE LEARNT SO FAR IN HCI &#40;THE APPLICATIONS OF HCI&#41;
 	</h2>
 
 	<section>
