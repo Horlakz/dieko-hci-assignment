@@ -1,4 +1,4 @@
-<section class="flex-col-center gap-6 sm:px-20 px-6 mx-auto max-w-screen-lg">
+<section class="flex-col-center gap-6 sm:px-20 px-6">
 	<h2 class="sm:text-3xl text-xl text-center font-bold">
 		Applications of Human Computer Interaction &#40;HCI&#41;
 	</h2>
