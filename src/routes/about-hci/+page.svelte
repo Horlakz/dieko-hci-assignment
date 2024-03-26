@@ -94,6 +94,7 @@
 			shaped this critical field.
 		</p>
 
+		<h6>Pictorial representation of the Paradigms of interactions in HCI</h6>
 		<img src={historyOfHCI} alt="history of hci pictorial representation" class="py-6" />
 	</section>
 </section>
