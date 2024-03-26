@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>HCM Assignment</title>
+	<title>Diekoloreloluwa HCI Assignment</title>
 </svelte:head>
 
 <main class="relative w-screen h-screen overflow-hidden flex sm:flex-row flex-col sm:pb-0 pb-16">
