@@ -31,9 +31,16 @@
 
 	<section class="grid sm:grid-cols-3 sm:gap-12 gap-6 px-6 py-8">
 		{#each images as image, index}
-			<img src={image} alt="image {index}" class="shadow-image w-48 h-40 rounded-lg" />
+			<img src={image} alt="image {index}" class="shadow-image w-48 h-40 rounded-lg object-cover" />
 		{/each}
 	</section>
+
+	<p class="text-center text-gray-900 text-sm">
+		Human Computer Interaction &#40;HCI&#41; has been very beautiful. It has changed the way we
+		interact with machines and has improved our productivity. HCI has enabled the development of new
+		technologies, such as artificial intelligence, that are revolutionizing the way we live and
+		work.
+	</p>
 </section>
 
 <style>
