@@ -1,5 +1,5 @@
 <script>
-	export let color = '#000';
+	export let color = '#fff';
 </script>
 
 <svg fill={color} width="30" height="30" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"
