@@ -23,7 +23,7 @@
 			</p>
 			<div class="flex-center gap-8">
 				<Button on:click={() => goto('/about')}>about me</Button>
-				<Button on:click={() => goto('/contact')}>Project Overview</Button>
+				<Button on:click={() => goto('/about-hci')}>Project Overview</Button>
 			</div>
 		</div>
 	</div>

@@ -102,7 +102,7 @@
 		<img src={historyOfHCI} alt="history of hci pictorial representation" class="py-6" />
 
 		<div class="flex justify-center gap-6">
-			<Button on:click={() => goto('/applications')}>check out gallery</Button>
+			<Button on:click={() => goto('/gallery')}>check out gallery</Button>
 			<Button on:click={() => goto('/applications')}>View Applications</Button>
 		</div>
 	</section>

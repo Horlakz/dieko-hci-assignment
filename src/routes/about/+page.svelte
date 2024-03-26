@@ -1,4 +1,5 @@
 <script>
+	import { goto } from '$app/navigation';
 	import Button from '$lib/ui/Button.svelte';
 </script>
 
@@ -22,6 +23,6 @@
 			my dreams. And with unwavering determination and a thirst for knowledge, I am poised to make a
 			meaningful impact in the world of technology.
 		</p>
-		<Button>CONTACT DETAILS</Button>
+		<Button on:click={() => goto('/contact')}>CONTACT DETAILS</Button>
 	</section>
 </div>
