@@ -11,15 +11,23 @@
 <section class="flex-col-center gap-6 sm:px-20 px-6">
 	<h2 class="sm:text-5xl text-4xl font-semibold">Gallery</h2>
 
-	<section class="grid sm:grid-cols-4 gap-10 px-6 py-8 max-h-[40rem] overflow-scroll">
+	<section class="grid sm:grid-cols-4 gap-6 px-6 py-8">
 		{#each images as image, index}
 			<img
 				src={image}
 				alt="image {index}"
-				width="150"
-				height="150"
+				width="130"
+				height="130"
 				class="shadow-image rounded-lg"
 			/>
 		{/each}
 	</section>
 </section>
+
+<style>
+	.shadow-image {
+		box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+		-webkit-box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+		-moz-box-shadow: 10px 8px 0px 2px rgba(0, 0, 0, 1);
+	}
+</style>
