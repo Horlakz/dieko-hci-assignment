@@ -1,5 +1,7 @@
-<section class="flex-col-center gap-6 px-20">
-	<h2 class="text-3xl font-bold">About Human Computer Interaction &#40;HCI&#41;</h2>
+<section class="flex-col-center gap-6 sm:px-20 px-8">
+	<h2 class="sm:text-3xl text-xl text-center font-bold">
+		About Human Computer Interaction &#40;HCI&#41;
+	</h2>
 
 	<section class="w-full flex flex-col justify-start items-start">
 		<h3 class="border-b-2 border-black w-fit text-lg font-bold pr-28">Meaning of HCI?</h3>
