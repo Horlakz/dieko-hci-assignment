@@ -26,10 +26,10 @@
 
 <div class="w-full h-full flex-center">
 	<section
-		class="shadow-text rounded-tr-3xl rounded-bl-3xl border border-black sm:p-6 p-4 sm:mx-16 mx-4 text-center"
+		class="shadow-text rounded-tr-3xl rounded-bl-3xl border border-black sm:py-6 sm:px-14 p-4 sm:mx-16 mx-4 text-center"
 	>
 		<h1 class="uppercase sm:text-5xl text-2xl font-bold mb-6">contact me</h1>
-		<ul>
+		<ul class="space-y-2">
 			{#each details as item}
 				<li class="flex items-center gap-4">
 					<svelte:component this={item.icon} color={'#000'} />

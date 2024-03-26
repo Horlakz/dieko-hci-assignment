@@ -1,5 +1,7 @@
 <script>
+	import { goto } from '$app/navigation';
 	import historyOfHCI from '$lib/assets/history-of-hci.png';
+	import Button from '$lib/ui/Button.svelte';
 </script>
 
 <section class="flex-col-center gap-6 sm:px-20 px-8">
@@ -22,7 +24,7 @@
 		</p>
 	</section>
 
-	<section class="w-full flex flex-col justify-start items-start">
+	<section class="w-full flex flex-col justify-start items-start text-justify">
 		<h3 class="border-b-2 border-black w-fit text-lg font-bold pr-28">History is HCI?</h3>
 
 		<p>
@@ -98,6 +100,11 @@
 
 		<h6>The Pictorial representations of the shifts are illustrated below:</h6>
 		<img src={historyOfHCI} alt="history of hci pictorial representation" class="py-6" />
+
+		<div class="flex justify-center gap-6">
+			<Button on:click={() => goto('/applications')}>check out gallery</Button>
+			<Button on:click={() => goto('/applications')}>View Applications</Button>
+		</div>
 	</section>
 </section>
 
