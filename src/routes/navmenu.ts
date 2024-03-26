@@ -18,8 +18,8 @@ export const navmenu = [
 	},
 	{
 		icon: StackIcon,
-		href: '/examples',
-		alt: 'Examples'
+		href: '/gallery',
+		alt: 'Gallery'
 	},
 	{
 		icon: EducationIcon,
