@@ -10,13 +10,15 @@
 	<section class="w-full flex flex-col justify-start items-start">
 		<h3 class="border-b-2 border-black w-fit text-lg font-bold pr-28">Meaning of HCI?</h3>
 		<p>
-			Human-computer interaction (HCI) is a field that studies the interaction between humans and
-			computers.
-			<br />
-			It focuses on designing and evaluating computer technology to ensure it's effective, efficient,
-			and user-friendly.
-			<br />
-			HCI draws on various disciplines like computer science, psychology, design, and ergonomics.
+			The following definition is given by the Association for Computing Machinery "Human-computer
+			interaction is a discipline concerned with the design, evaluation and implementation of
+			interactive computing systems for human use and with the study of major phenomena surrounding
+			them." Because of the interaction that occurs between users and computers at the interface of
+			software and hardware such as between computer peripherals and large-scale mechanical systems
+			in aircraft and power plants, human-computer interaction is the study of that interaction
+			between people &#40;otherwise called users&#41; and computers. It can also be regarded as the
+			intersection of computer science, behavioral sciences, design and several other fields of
+			study.
 		</p>
 	</section>
 
